@@ -1,0 +1,41 @@
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.csprojAssemblyReference.cache
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Main.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Properties.Resources.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.csproj.GenerateResource.cache
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.csproj.CoreCompileInputs.cache
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\bin\Debug\Maraphone.exe.config
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\bin\Debug\Maraphone.exe
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\bin\Debug\Maraphone.pdb
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.exe
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.pdb
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.More.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Login.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Runner.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Sponsor.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Coordinat_menu.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Admin.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Check.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Info.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Fond.resources
+C:\Users\Dimca\source\repos\Maraphone\Maraphone\obj\Debug\Maraphone.Contact.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\bin\Debug\Maraphone.exe.config
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\bin\Debug\Maraphone.exe
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\bin\Debug\Maraphone.pdb
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Admin.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Check.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Contact.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Coordinat_menu.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Fond.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Info.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.MenuBeg.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Sponsor.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Login.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Main.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.More.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.Runner.resources
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.exe
+C:\Users\user\OneDrive\Рабочий стол\Maraphone\Maraphone\obj\Debug\Maraphone.pdb
